@@ -1,5 +1,5 @@
 let isDisplay = false
-
+ 
 setInterval(() => {
   if (
     window.scrollY > window.innerHeight &&
